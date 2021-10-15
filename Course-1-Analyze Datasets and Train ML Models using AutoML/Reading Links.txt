@@ -1,0 +1,31 @@
+
+Week-2:
+=========
+Measure Pretraining Bias - Amazon SageMaker : https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-measure-data-bias.html
+
+SHAP : https://shap.readthedocs.io/en/latest/
+
+Different Types of Data Drift : https://towardsdatascience.com/data-drift-part-1-types-of-data-drift-16b3eb175006
+
+Text Analysis Algorithms:
+---------------------------
+
+Word2Vec algorithm
+
+GloVe algorithm 
+
+FastText algorithm 
+
+Transformer architecture, "Attention Is All You Need" 
+
+BlazingText algorithm
+
+ELMo algorithm 
+
+GPT model architecture 
+
+BERT model architecture 
+
+Built-in algorithms
+
+Amazon SageMaker BlazingText 
